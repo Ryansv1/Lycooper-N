@@ -9,7 +9,8 @@
 }
 
 body {
-    background: #77B869;
+   /* background: #77B869 !important;*/
+   background: #77B869;
 }
 
 .container-main-login {

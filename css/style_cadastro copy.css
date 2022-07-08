@@ -8,9 +8,7 @@
     font-style: bold;
 }
 
-body {
-    background: #77B869;
-}
+
 
 .container-main-login {
     width: 100vw;
@@ -18,6 +16,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: #77B869;
 }
 
 .container-left, .container-right {
